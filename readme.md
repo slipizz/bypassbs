@@ -35,9 +35,9 @@
 
 ## Итог(по vkcloud):
 Минусы:
-
 1. Цена достаточна высокая в сравнении с Yandex Cloud
 2. Настройка firewall и маршрутизаторов
+
 Плюсы:
 1. Работает на каждом айпи (вроде как) 
 
@@ -119,6 +119,7 @@ Access URL: http://ip:port/webpath
 
 ## Видео-гайд:
 [YouTube](https://youtu.be/m_gK_F2eoUQ)
+
 
 
 
