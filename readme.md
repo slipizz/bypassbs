@@ -71,3 +71,6 @@ Access URL: http://ip:port/webpath
 
 - **target**: `ads.x5.ru:443`  
 - **sni**: `ads.x5.ru`
+
+## Видео-гайд:
+[YouTube](https://youtu.be/m_gK_F2eoUQ)
