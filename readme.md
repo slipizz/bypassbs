@@ -43,7 +43,11 @@ ssh -i "путь_до_вашего_приватного_ключа" -l "логи
 
 ```bash
 wget https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh
+```
+```bash
 chmod +x install.sh
+```
+```bash
 sudo ./install.sh
 ```
 
@@ -74,3 +78,4 @@ Access URL: http://ip:port/webpath
 
 ## Видео-гайд:
 [YouTube](https://youtu.be/m_gK_F2eoUQ)
+
