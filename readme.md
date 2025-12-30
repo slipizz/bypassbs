@@ -130,6 +130,9 @@ Access URL: http://ip:port/webpath
 2. Низкая цена (в сравнении с vkcloud)
 3. Более понятнее панель управления, без настроек firewall и т.д (как говорится, купил - работает сразу)
 
+# Каскад 3x-ui -> [kaskad3x-ui](https://github.com/slipizz/kaskad3x-ui)
+
+
 
 
 
